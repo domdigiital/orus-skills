@@ -1,0 +1,11 @@
+Resumo do projeto/
+ARQUITETURA.md
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.skill-backups/
+*.log
+.env
+.env.*
+.DS_Store
