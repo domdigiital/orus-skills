@@ -1,6 +1,6 @@
 # Orus Skills
 
-Biblioteca de skills da Dom. Digital para a Orus Community e para qualquer pessoa que queira utiliza-las. A primeira entrega e **clone-expert**, em uma unica versao completa.
+Biblioteca de skills da Dom. Digital para a Orus Community e para qualquer pessoa que queira utiliza-las.
 
 ## Clone-expert
 
