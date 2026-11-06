@@ -22,3 +22,7 @@ Antes de redigir o CTA, registre a acao ou destino e a confirmacao de que existe
 ## Saida e passagem
 
 Apresente proposta de oferta e suas lacunas para aceite. Aprovacao trava a direcao dessa versao; nao prova demanda, faturamento ou capacidade recorrente. Se o usuario ainda nao decidiu o que vender, continue identidade e conteudo educacional com a oferta explicitamente pendente, sem fabricar CTA de compra.
+
+## Ordem com o conteudo
+
+A oferta aceita e a fonte do sistema de conteudo. Quando a oferta mudar, revise o sistema contra a versao vigente antes de produzir novas pecas; a decisao antiga fica como historico.

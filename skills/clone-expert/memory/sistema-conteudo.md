@@ -6,6 +6,14 @@ Derive os pilares do conhecimento e do problema escolhidos. Justifique o papel d
 
 Confirme canal, formatos e capacidade de produzir antes de escolher frequencia. Monte uma semana repetivel com dia, pauta, formato, responsavel, fonte e estado. Frequencia e proposta, nunca compromisso inventado. Se o usuario nao souber a capacidade, apresente uma semana de teste para ele ajustar.
 
+## Pilares ligados a oferta
+
+Para cada pilar, registre quais obstaculos da oferta ele ataca (antes, durante e depois). Cada pauta indica o obstaculo de onde veio; obstaculo sem pesquisa e hipotese.
+
+## Nivel de consciencia
+
+Distribua as 30 pautas em: inconsciente do problema, consciente do problema, consciente da solucao, consciente do produto e mais consciente. Concentre o banco em problema e solucao quando o objetivo for atracao e consciencia. Mostre a tabela nivel x pautas; cada pauta aparece uma vez.
+
 ## Banco de 30 pautas
 
 Use IDs P01 a P30 unicos. Cada pauta tem exatamente estes 13 campos de planejamento:
@@ -28,9 +36,9 @@ Trinta titulos nao constituem esse banco. Cada desenvolvimento precisa ter funda
 
 ## CTA e medicao
 
-Uma pauta tem uma funcao principal e um CTA coerente. Sem destino de acesso confirmado, use reflexao, aplicacao ou pergunta de interesse. Nao presuma lista de interesse, cadastro, formulario, envio de material ou canal de DM existentes. Se sugerir construir um desses destinos, registre como pendencia operacional e nao como CTA pronto para acesso. Um CTA de comentario/DM e proposta de copy, sem autorizacao de enviar ou configurar automacao.
+O CTA padrao e comentar uma palavra-chave para receber na DM um material de apoio ao ensino da peca: prompt template, skill avulsa, guia ou checklist curto. Uma palavra unica por pauta. A peca so publica com esse CTA quando o material existir, nao carregar dado privado e a entrega pela DM tiver sido testada; ate la, o CTA fica marcado como pendente. O conteudo nao cita preco, pre-venda, bonus ou garantia: essas condicoes ficam na pagina da oferta, e a pauta de conversao leva a pagina somente depois que ela estiver publicada e testada.
 
-Associe metrica a funcao: retencao para uma demonstracao, salvamento para uma referencia, relato de aplicacao para um exercicio, conversa qualificada para interesse, acesso ou compra somente se o destino existir e houver dados. Nao estabelecer meta numerica sem base. Registre periodo e denominador de taxas quando forem medidas.
+Metrica principal: comentarios com a palavra-chave e salvamentos. Retencao para demonstracao, relato de uso do material para aplicacao, compra somente com destino e dados reais. Nao estabelecer meta numerica sem base; registrar periodo e denominador de taxas. Formato preferencial: narracao com motion design, com tela real onde a demonstracao exigir; carrossel como teste futuro reaproveitando Reels.
 
 ## Conferir e aprovar
 

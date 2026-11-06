@@ -31,9 +31,9 @@ Leia os arquivos a partir desta pasta, conforme a tarefa:
 
 1. Recupere material e decisoes ja fornecidos. Identifique objetivo, publico, conhecimento, amostras de fala, oferta existente e ambiente desejado. Leia mapear-conhecimento. Registre o que existe e pergunte somente pelo que altera a proxima decisao.
 2. Apresente oportunidades sustentadas pelas fontes, ate cinco se houver base. Compare pelo problema, evidencia, possibilidade de entrega e facilidade de transferir o conhecimento. Recomende uma e obtenha a escolha do usuario.
-3. Leia oferta. Prepare posicionamento, primeira evidencia de utilidade, obstaculos e entregas. Mostre as condicoes indefinidas como indefinidas. Obtenha o aceite da direcao; esta aprovacao nao abre venda.
+3. Estruture a oferta antes de qualquer sistema de conteudo. Se a skill oferta-funil estiver instalada no ambiente, encaminhe a ela a criacao da oferta; sem ela, leia oferta. Se o usuario ja tiver um documento de oferta aprovado e vigente, use-o como modelo de estrutura: os mesmos campos e a mesma ordem, sem copiar valores comerciais de outro projeto. Mostre as condicoes indefinidas como indefinidas. Obtenha o aceite da oferta; sem esse aceite, nao inicie o passo 5. Esta aprovacao nao abre venda.
 4. Leia identidade-conhecimento-voz. Prepare identidade, base e tres amostras: explicar o metodo, criar conteudo e responder sobre a oferta. Mostre fontes e lacunas. O usuario aprova a comunicacao ou indica correcao; ajuste e reapresente a parte afetada.
-5. Leia sistema-conteudo. Prepare pilares, frequencia viavel, calendario e 30 pautas com todos os campos. Cada pauta tem conhecimento de origem, funcao, CTA compativel e metrica. Obtenha o aceite do conjunto editorial.
+5. Leia sistema-conteudo. Com a oferta aceita como fonte, prepare pilares ligados aos obstaculos da oferta, distribuicao das pautas por nivel de consciencia, semana de teste e 30 pautas com todos os campos. Obtenha o aceite do conjunto editorial.
 6. Use os templates para apresentar o texto integral da skill do clone e seus arquivos. Conhecimento do usuario fica no projeto dele. Confirme pasta e ambiente e obtenha aprovacao para gravar/instalar essa versao; preserve conteudo preexistente com backup. Leia validacao e confira recuperacao das fontes e tres usos reais do clone instalado. Aceite editorial nao substitui teste da skill.
 7. Leia avatar-perfil. Confirme identidade real ou ficticia e as referencias autorizadas; prepare biblia, contrato de imagem, perfil e destaques coerentes com as escolhas anteriores. Geracao visual depende de ferramenta e de autorizacao para eventual custo. Apresente a imagem para aceite visual. Sem geracao, entregue o briefing e registre a dependencia pendente.
 8. Apresente o conjunto e os limites dos testes. Integre somente escolhas aprovadas, repita as verificacoes afetadas e registre o ponto de continuidade. O usuario avalia o conjunto final. Enviar, publicar, mudar contas, criar repositorio e executar ferramentas externas exigem escopo e autorizacao proprios.
@@ -57,7 +57,7 @@ Se fontes se contradizem, apresente os trechos, proponha o recorte afetado e obt
 ## Erros a corrigir
 
 - Fonte ausente: solicitar o material ou manter a parte pendente, em vez de inventar experiencia.
-- Oferta futura: propor reflexao ou aplicacao; interesse pode ser uma pergunta, sem inventar lista de cadastro, canal de envio ou automacao.
+- Conteudo antes da oferta: parar e voltar ao passo 3. CTA de palavra-chave sem material pronto: marcar como pendente, nunca publicar prometendo envio.
 - Pautas reduzidas a titulos: completar o contrato de cada pauta antes de chamar o banco de pronto.
 - Aparencia como autoridade: separar cena ilustrativa de fato ocorrido e credencial.
 - Arquivo criado como prova de instalacao: executar chamada e conferir a recuperacao.
